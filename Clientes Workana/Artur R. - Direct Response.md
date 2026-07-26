@@ -1,3 +1,4 @@
-# Artur R. - Direct Response
+# Artur R. — Direct Response
 
-> Arquivo sincronizado do Obsidian vault — Canyo Marketing Digital
+Cliente Workana — projeto de direct response marketing.
+Status: encerrado
