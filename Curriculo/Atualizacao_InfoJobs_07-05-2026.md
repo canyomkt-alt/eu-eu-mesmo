@@ -1,3 +1,5 @@
-# Atualizacao_InfoJobs_07-05-2026
+# Atualizacao InfoJobs — 07/05/2026
 
-> Arquivo sincronizado do Obsidian vault — Canyo Marketing Digital
+Perfil atualizado no InfoJobs com novo curriculo.
+Cargo-alvo: Gestor de Trafego Pago / Coordenador de Operacoes
+Status: aguardando retorno de vagas
