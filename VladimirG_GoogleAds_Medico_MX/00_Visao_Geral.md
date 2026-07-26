@@ -1,3 +1,6 @@
-# 00_Visao_Geral
+# Vladimir G. — Google Ads Clinica Medica Mexico
 
-> Arquivo sincronizado do Obsidian vault — Canyo Marketing Digital
+Cliente com clinica medica no Mexico.
+Servico: gestao de Google Ads para captacao de pacientes.
+Orcamento mensal: R$500-1.200
+Status: encerrado
