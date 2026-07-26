@@ -1,3 +1,8 @@
-# Canais e Presenca Digital
+# Canais de Venda da Canyo
 
-> Arquivo sincronizado do Obsidian vault — Canyo Marketing Digital
+## Instagram: @canyomkt — autoridade e captacao organica
+## Site: www.canyo.com.br — Wix, ativo
+## Meta Ads: campanha ativa para captacao de clientes
+## Google Ads: ativo
+## Mercado Livre: loja de produtos fisicos eletronicos — ativo
+## Shopee: inativo
