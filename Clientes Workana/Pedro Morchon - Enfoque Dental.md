@@ -1,3 +1,5 @@
-# Pedro Morchon - Enfoque Dental
+# Pedro Morchon — Enfoque Dental
 
-> Arquivo sincronizado do Obsidian vault — Canyo Marketing Digital
+Cliente prospectado via Workana para gestao de Google Ads.
+Clinica odontologica com interesse em captacao de pacientes via trafego pago.
+Status: em prospecção
