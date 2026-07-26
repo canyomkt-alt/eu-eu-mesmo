@@ -1,3 +1,13 @@
-# Clientes e Resultados
+# Clientes e Resultados da Canyo
 
-> Arquivo sincronizado do Obsidian vault — Canyo Marketing Digital
+## Clientes Ativos
+(a preencher conforme forem fechando)
+
+## Depoimentos na Landing Page
+- Rogerio: cliente real — manter
+- Juliana P.: familiar — substituir por depoimento autentico
+- Rafael S.: familiar — substituir por depoimento autentico
+
+## Pendencias
+- Conseguir depoimento real de Juliana e Rafael
+- Atualizar landing page apos conseguir os depoimentos
